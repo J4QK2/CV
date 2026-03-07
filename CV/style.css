@@ -1,6 +1,7 @@
 body{
     font-family: "SUSE", sans-serif;
     font-size: large;
+    background-color: bisque;
 }
 .chapter-names{
     color: aqua;
